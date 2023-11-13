@@ -15,4 +15,4 @@ let fizetes = {
     osszeg+= fizetes[szemely];
  }
 
- console.log(`Az összes fizetés:${osszeg}Ft`)
+ alert(`Az összes fizetés:${osszeg}Ft`)
